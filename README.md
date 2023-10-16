@@ -2,7 +2,7 @@
 
 Este é um projeto de calculadora desenvolvido em Python com uma interface gráfica simples. A calculadora suporta operações matemáticas básicas, parênteses, porcentagens, raiz quadrada, fatorial e potência.
 
-![Calculadora](Calculadora/Imagens/calculadora.png)
+![Calculadora](Imagens/calculadora.png)
 
 ## Funcionalidades
 
